@@ -113,8 +113,7 @@ nothing.
 
 ## Status
 
-ADM is young. The language and the compiler are usable, the standard library still has gaps,
-and things change between releases. Bug reports and questions are welcome in the
+Bug reports and questions are welcome in the
 [issues of the main repository](https://github.com/admlang/adm/issues).
 
 Licensed under [Apache 2.0](https://github.com/admlang/adm/blob/main/LICENSE).
